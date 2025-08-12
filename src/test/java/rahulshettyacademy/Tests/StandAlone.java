@@ -20,7 +20,7 @@ public class StandAlone {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-// new coments added
+// new comments added
 
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
