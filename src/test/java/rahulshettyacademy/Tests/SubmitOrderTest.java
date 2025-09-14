@@ -34,6 +34,7 @@ public class SubmitOrderTest extends BaseTest {
 	public void submitOrder(HashMap<String,String>input) throws IOException, InterruptedException {
 
 		// hii this for comment
+		// this is for confirmation
 
 		ProductCatalogue catalogue = loginPage.loginAppn(input.get("Email"), input.get("Password"));
 
